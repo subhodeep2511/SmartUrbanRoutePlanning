@@ -111,7 +111,3 @@ Smart-Urban-Route-Planning/
 - Let users add or edit locations and roads.
 - Add route options for shortest distance, fewer turns, or accessibility.
 - Improve map scaling and layout for different window sizes.
-
-## Author
-
-Add your name and course details here if you want to include them on GitHub.
